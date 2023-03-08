@@ -1,2 +1,1 @@
-# IS1200
-Dtek, hela snakeprojektet
+Ett snakeprojekt.
